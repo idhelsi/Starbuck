@@ -1,28 +1,20 @@
-### Starbucks Landing Page
+# Projeto Starbucks
 
-Este projeto é uma landing page inspirada na Starbucks, apresentando informações sobre produtos e promoções, com design moderno e responsivo.
+Este projeto é uma página da web inspirada na Starbucks, desenvolvida com HTML e CSS. A estrutura é responsiva, garantindo uma boa experiência em dispositivos móveis e desktops. O design utiliza cores e elementos visuais que refletem a identidade da marca.
+
+## Estrutura do Projeto
+
+- `index.html`: Contém a estrutura principal da página.
+- `assets/css/style.css`: Estilos aplicados à página.
+- `assets/images/`: Imagens utilizadas no projeto.
 
 ## Funcionalidades
 
-Seção de Banner: Destaques promocionais.
+- Formulário de pesquisa funcional.
+- Seções informativas sobre produtos.
+- Design responsivo para diferentes tamanhos de tela.
 
-Apresentação de Produtos: Imagens e descrições.
+## Como Contribuir
 
-Navegação Simples: Menu responsivo.
-
-Design Responsivo: Compatível com desktop, tablet e mobile.
-
-## Tecnologias
-
-HTML5: Estrutura da página.
-
-CSS3: Estilização e responsividade.
-
-## Como Usar
-
-Clone o repositório:
-```
-git clone https://github.com/usuario/projeto.git
-```
-Abra o arquivo index.html no navegador.
+Sinta-se à vontade para explorar, modificar e contribuir com melhorias para o projeto. Para contribuir, faça um fork do repositório e envie um pull request.
 
